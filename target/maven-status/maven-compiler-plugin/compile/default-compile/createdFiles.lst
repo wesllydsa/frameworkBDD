@@ -1,0 +1,3 @@
+br\com\just\frameworkBDD\driver\ChromeInfo.class
+br\com\just\frameworkBDD\driver\ChromeSerenityDriver.class
+br\com\just\frameworkBDD\driver\InternetExplorerSerenityDriver.class
